@@ -1,0 +1,9 @@
+{
+    "server_port": 7435,
+    "db_host": "db",
+    "db_port": 5432,
+    "db_name": "shopsdb",
+    "db_user": "postgres",
+    "db_password": "root"
+}
+
